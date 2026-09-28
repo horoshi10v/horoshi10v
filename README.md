@@ -1,6 +1,5 @@
 ## Hi there 👋
-[![Valentyn profile views](https://u8views.com/api/v1/github/profiles/55824566/views/day-week-month-total-count.svg)](https://u8views.com/github/horoshi10v)
-
+<a href="https://u8views.com/github/horoshi10v"><img src="https://u8views.com/api/v1/github/profiles/55824566/views/day-week-month-total-count.svg"></a>
 <!--
 **horoshi10v/horoshi10v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
