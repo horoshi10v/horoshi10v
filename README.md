@@ -9,7 +9,7 @@ Backend-focused Full-stack Developer working with Node.js, TypeScript and Go.
 ## Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,go,nestjs,postgres,mongodb,redis,docker,gitlab,aws,vue,nuxtjs,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,go,nestjs,postgres,mongodb,redis,docker,gitlab,aws,vue,nuxtjs,react,nextjs,php" />
 </p>
 
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
